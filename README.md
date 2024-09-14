@@ -239,4 +239,4 @@ Use the error messages to guide your work:
 Fix the errors in each of the files in `lib/`. Then confirm the fix by running
 `pytest` again.
 
-Commit and push your work using `git` when all of your tests have passed!
+Commit and push your work using `git` when all of your tests have passed!!
